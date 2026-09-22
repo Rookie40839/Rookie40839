@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+SaaS,+not+classroom+demos;Multi-tenant+CRM+%7C+AI-Integrated+Backends;CS%2FIT+Undergrad+%40+VNRVJIET;SIH+2026+Team+Lead+%7C+ACM+Member&font=Fira%20Code&center=true&width=650&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=22">
+<img src="https://readme-typing-svg.demolab.com/?lines=Building+production-grade+SaaS,+not+classroom+demos;Multi-tenant+CRM+%7C+AI-Integrated+Backends;CS%2FIT+Undergrad+%40+VNRVJIET;SIH+2026+Team+Lead+%7C+ACM+Member&font=Fira%20Code&center=true&width=800&height=45&duration=3000&pause=800&color=2C5364&vCenter=true&size=20">
 </p>
 
 <p align="center">
